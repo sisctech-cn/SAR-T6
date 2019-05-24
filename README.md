@@ -15,7 +15,8 @@ SAR-T6
 + 3级流水线
 + 1.4 DMIPS/MHz
 
-
+# download
+http://www.sisctech.cn/uploads/soft/190515/1_1026563651.tgz
 # 运行说明
 C model操作流程，便于上手运行。
 
